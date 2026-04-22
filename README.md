@@ -38,10 +38,10 @@ Logged on as end user Jack who works at a bank. I created a new ticket as Jack e
 <h2>Assignment and Communication</h2>
 
 <p>
-
+<img width="977" height="409" alt="image" src="https://github.com/user-attachments/assets/12b89789-3ed8-4857-84ac-7fc35c4636b2" /> <img width="1166" height="961" alt="image" src="https://github.com/user-attachments/assets/1e64d19f-42f3-4563-a23f-9930d7610155" />
 </p>
 <p>
-Logged in as Bobbi Smith who is 
+Logged in as Bobbi Smith who is a help desk agent but only with view only access. As Bobbi, I went over the ticket's properties, Priority, Department, SLA, and who it was assigned to. As Bobbi, I responeded to Jack with a possible solution.
 </p>
 <br />
 
