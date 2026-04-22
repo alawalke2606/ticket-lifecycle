@@ -49,6 +49,25 @@ Logged in as Bobbi Smith who is a help desk agent but only with view only access
 <img width="995" height="605" alt="image" src="https://github.com/user-attachments/assets/8292a9be-9543-43af-816c-e75c45b2b509" /> <img width="982" height="635" alt="image" src="https://github.com/user-attachments/assets/c207b37e-20fe-4c71-86dd-b59efd0f207e" />
 </p>
 <p>
-Logged in as the System Administrator to all Bobbi to triage the ticket. I gave Bobbi full access so I could close the ticket out and implement a solution.
+Logged in as the System Administrator to allow Bobbi to triage the ticket. I gave Bobbi full access so I could close the ticket out and implement a solution.
 </p>
 <br />
+
+<h2>Working the ticket</h2>
+
+<p>
+<img width="995" height="788" alt="image" src="https://github.com/user-attachments/assets/301991ab-69f9-4cb5-a072-2fac473bfb89" /> <img width="958" height="504" alt="image" src="https://github.com/user-attachments/assets/e96ca7e6-4575-46a6-a7aa-175ef24887fa" />
+</p>
+<p>
+Logged back in as Bobbi to update the ticket with proper labels for SLA, department, priority, help topic, and who it is assigned to. As Bobbi, I was able to reset the password for Jack.
+</p>
+<br />
+
+<p>
+
+</p>
+<p>
+Logged back in as Bobbi to update the ticket with proper labels for SLA, department, priority, help topic, and who it is assigned to. As Bobbi, I was able to reset the password for Jack.
+</p>
+<br />
+
