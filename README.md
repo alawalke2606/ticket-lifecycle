@@ -38,7 +38,7 @@ Logged on as end user Jack who works at a bank. I created a new ticket as Jack e
 <h2>Assignment and Communication</h2>
 
 <p>
-<img width="977" height="409" alt="image" src="https://github.com/user-attachments/assets/12b89789-3ed8-4857-84ac-7fc35c4636b2" /> <img width="1166" height="961" alt="image" src="https://github.com/user-attachments/assets/1e64d19f-42f3-4563-a23f-9930d7610155" />
+<img width="977" height="409" alt="image" src="https://github.com/user-attachments/assets/12b89789-3ed8-4857-84ac-7fc35c4636b2" /> <img width="958" height="699" alt="image" src="https://github.com/user-attachments/assets/674f235d-959d-4333-9edb-d7957a7d3b74" />
 </p>
 <p>
 Logged in as Bobbi Smith who is a help desk agent but only with view only access. As Bobbi, I went over the ticket's properties, Priority, Department, SLA, and who it was assigned to. As Bobbi, I responeded to Jack with a possible solution.
@@ -46,9 +46,9 @@ Logged in as Bobbi Smith who is a help desk agent but only with view only access
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="995" height="605" alt="image" src="https://github.com/user-attachments/assets/8292a9be-9543-43af-816c-e75c45b2b509" /> <img width="982" height="635" alt="image" src="https://github.com/user-attachments/assets/c207b37e-20fe-4c71-86dd-b59efd0f207e" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logged in as the System Administrator to all Bobbi to triage the ticket. I gave Bobbi full access so I could close the ticket out and implement a solution.
 </p>
 <br />
