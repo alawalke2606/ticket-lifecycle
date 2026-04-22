@@ -63,11 +63,14 @@ Logged back in as Bobbi to update the ticket with proper labels for SLA, departm
 </p>
 <br />
 
+<h2>Resolution</h2>
+
 <p>
+<img width="998" height="386" alt="image" src="https://github.com/user-attachments/assets/e27a2856-d84f-4467-8b90-94d9a753b89f" />
 
 </p>
 <p>
-Logged back in as Bobbi to update the ticket with proper labels for SLA, department, priority, help topic, and who it is assigned to. As Bobbi, I was able to reset the password for Jack.
+Closed the ticket as Bobbi as Jack was able to login to the online banking system after Bobbi reset his password.
 </p>
 <br />
 
